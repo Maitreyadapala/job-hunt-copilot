@@ -1,0 +1,21 @@
+{
+  "name": "Alex Example",
+  "contact": ["alex@example.com", "+00 0 00 00 00 00", "linkedin.com/in/alexexample"],
+  "profile": "Marketing graduate with 2 years of experience in social content and community growth. Grew a student community from 800 to 3,000 members and ran 12 events with 40+ attendees each. Strong in content planning, reporting and campaign coordination.",
+  "experience": [
+    {"title": "Marketing Intern", "company": "Example Studio", "location": "Lyon", "dates": "Mar 2025 – Aug 2025",
+     "bullets": [
+       "Planned and published 60+ social posts across 3 channels, lifting average engagement by 25% in 5 months.",
+       "Built a weekly reporting sheet for the founder that cut reporting time from 3 hours to 1.",
+       "Coordinated 4 creator collaborations, from briefing to delivery, with all content published on schedule."
+     ]},
+    {"title": "Community Lead", "company": "Student Society", "location": "Lyon", "dates": "Sep 2023 – Feb 2025",
+     "bullets": [
+       "Grew the member base from 800 to 3,000 through weekly content and partner events.",
+       "Ran 12 events with 40+ attendees each, handling venues, budget and sign-ups.",
+       "Recruited and managed a team of 6 volunteers."
+     ]}
+  ],
+  "education": [{"degree": "BSc Marketing", "school": "Example University", "location": "Lyon", "dates": "2020 – 2023"}],
+  "skills": [["Languages", "English (fluent), French (B2)"], ["Software", "Canva, Notion, Google Analytics"], ["Core", "Content planning, community management, event coordination, reporting"]]
+}
